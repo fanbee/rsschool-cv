@@ -8,3 +8,8 @@ My goal of studying at school is to get real experience in developing web applic
 # Skills
 In my work experience there are: Java EE, java script, php and work with databases oracle and mySql.
 # Сode examples
+
+# Work experience
+My work experience is 8 years.
+# Education
+I graduated from the University of BrSTU (software engineer), I also completed advanced training courses in IBA.by (java EE).
